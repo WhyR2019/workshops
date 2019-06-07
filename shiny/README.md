@@ -8,16 +8,16 @@ A quick introduction to creating interactive visualisations of data using shiny.
 
 - Recap/intro to markdown
 
-* A quick introduction/refresher on rmarkdown for document styling
-* Adding some interactive graphs through htmlwidgets
+  * A quick introduction/refresher on rmarkdown for document styling
+  * Adding some interactive graphs through htmlwidgets
 
 - Input widgets and render functions
 
-* Extend a markdown document to run using shiny
-* Adding input controls
-* Using inputs to render output tables and graphs
+  * Extend a markdown document to run using shiny
+  * Adding input controls
+  * Using inputs to render output tables and graphs
 
 - Page layouts using shiny and shiny dashboard
 
-* Shiny and shinydashboard allow more control over page layouts
-* Creating a layout with input and output "slots"
+  * Shiny and shinydashboard allow more control over page layouts
+  * Creating a layout with input and output "slots"
