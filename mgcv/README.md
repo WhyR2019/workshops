@@ -1,4 +1,4 @@
-# Introduction to modern Generalized Additive Models in R (with mgcv))
+# Introduction to modern Generalized Additive Models in R (with mgcv)
 
 Authors: [Matteo Fasiolo, University of Bristol](http://www.bristol.ac.uk/maths/people/matteo-fasiolo/overview.html)
 
