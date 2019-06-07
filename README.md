@@ -5,3 +5,4 @@
 - [auditor + DALEX: a powerful duet for validation and explanation of machine learning models](https://github.com/WhyR2019/workshops/tree/master/dalex)
 - [„Black is the new White” - using eXplainable Artificial Intelligence in Business](https://github.com/WhyR2019/workshops/tree/master/xai)
 - [Shiny Basics](https://github.com/WhyR2019/workshops/tree/master/shiny)
+- [Speeding up R wih C++ (Rcpp) - from basics to more advanced applications](https://github.com/WhyR2019/workshops/tree/master/rcpp)

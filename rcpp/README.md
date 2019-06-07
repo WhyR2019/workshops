@@ -1,6 +1,6 @@
-# „Black is the new White” - using eXplainable Artificial Intelligence in Business
+# Speeding up R wih C++ (Rcpp) - from basics to more advanced applications
 
-Authors: Marcin	Chlebus, [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.edu.pl/), Data Juice Lab, Data Dontus
+Authors: Piotr WóJcik, [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.edu.pl/)
 
 ### Description
 
