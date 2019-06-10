@@ -15,7 +15,7 @@ Place: [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.e
 
 ## Afternoon Session (13:30 - 17:00)
 
+- [data.table introduction & time-series](https://github.com/WhyR2019/workshops/tree/master/datatable)
 - [„Black is the new White” - using eXplainable Artificial Intelligence in Business](https://github.com/WhyR2019/workshops/tree/master/xai)
 - [Speeding up R wih C++ (Rcpp) - from basics to more advanced applications](https://github.com/WhyR2019/workshops/tree/master/rcpp)
-- [data.table introduction & time-series](https://github.com/WhyR2019/workshops/tree/master/datatable)
 - [Potentials of R for data linkage](https://github.com/WhyR2019/workshops/tree/master/data_linkage)
