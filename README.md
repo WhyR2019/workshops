@@ -10,8 +10,8 @@ Place: [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.e
 
 ## Morning Session (9:00 - 12:30)
 
-- [Straightforward introduction to Deep Learning in R (with Keras)](https://github.com/WhyR2019/workshops/tree/master/keras) 
-    * Mikołaj Olszewski and Mikołaj Bogucki (iDash)[https://idash.pl/]
+- [data.table introduction & time-series](https://github.com/WhyR2019/workshops/tree/master/datatable) 
+    * Jan Gorecki, [H2O.AI](https://www.h2o.ai/)
 - [auditor + DALEX: a powerful duet for validation and explanation of machine learning models](https://github.com/WhyR2019/workshops/tree/master/dalex) 
     * [Alicja Gosiewska](http://gosiewska.com/) and Tomasz Mikołajczyk, [MI2 Data Lab](http://mi2.mini.pw.edu.pl)
 - [Shiny Basics](https://github.com/WhyR2019/workshops/tree/master/shiny) 
@@ -20,8 +20,8 @@ Place: [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.e
 
 ## Afternoon Session (13:30 - 17:00)
 
-- [data.table introduction & time-series](https://github.com/WhyR2019/workshops/tree/master/datatable) 
-    * Jan Gorecki, [H2O.AI](https://www.h2o.ai/)
+- [Straightforward introduction to Deep Learning in R (with Keras)](https://github.com/WhyR2019/workshops/tree/master/keras) 
+    * Mikołaj Olszewski and Mikołaj Bogucki (iDash)[https://idash.pl/]
 - [„Black is the new White” - using eXplainable Artificial Intelligence in Business](https://github.com/WhyR2019/workshops/tree/master/xai) 
     * Marcin	Chlebus, [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.edu.pl/), Data Juice Lab, Data Dontus
 - [Speeding up R wih C++ (Rcpp) - from basics to more advanced applications](https://github.com/WhyR2019/workshops/tree/master/rcpp) 
