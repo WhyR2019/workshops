@@ -13,7 +13,7 @@ Place: [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.e
 - [Straightforward introduction to Deep Learning in R (with Keras)](https://github.com/WhyR2019/workshops/tree/master/keras) 
     * Mikołaj Olszewski and Mikołaj Bogucki (iDash)[https://idash.pl/]
 - [auditor + DALEX: a powerful duet for validation and explanation of machine learning models](https://github.com/WhyR2019/workshops/tree/master/dalex) 
-    * (Alicja Gosiewska)[http://gosiewska.com/] and Tomasz Mikołajczyk
+    * [Alicja Gosiewska](http://gosiewska.com/) and Tomasz Mikołajczyk, [MI2 Data Lab](http://mi2.mini.pw.edu.pl)
 - [Shiny Basics](https://github.com/WhyR2019/workshops/tree/master/shiny) 
     * Theo	Roe, [Jumping Rivers](https://www.jumpingrivers.com/)
 - [To be announaced](https://github.com/WhyR2019/workshops/tree/master/high_performance)
