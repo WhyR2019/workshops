@@ -4,6 +4,10 @@ Authors: Piotr WóJcik, [Faculty of Economic Sciences, University of Warsaw](htt
 
 ### Description
 
-Explainable AI (XAI) is a scorching topic in prediction modelling and business process intelligence. Machine Learning algorithms have been used more and more in business decision processes. The principal problem is that most of them are so called “Black boxes”.  The name “Black box” depicts challenges in model understanding. Decision makers want to recognize the underlying logic of model reasoning as it has to be explained to stakeholders. XAI is a possible solution for understanding “Black-box” model complexity and fuzziness. We will present use cases of applied XAI, namely for X-sell Marketing Campaigns and Risk Management cases. 
+Typical bottlenecks of programs in R are (1) loops that can not easily be vectorized, because   calculations in a given iteration depend on the results from the previous iterations; (2) recursive functions or problems that require multiple calling the same function.
+C++ can help to solve these problems. It is a modern, fast and very well supported programming language with numerous additional libraries allowing to perform various types of computational tasks.
 
-We will show how XAI helps in stability & sensitivity analysis, prediction quality assessment and identification of decision drivers. Based on our analysis it can be stated that XAI is a set of solutions enabling application of “Black box” models in many business industries through in-depth understanding of advanced Machine Learning modelling.
+Thanks to the Rcpp package written by Dirk Eddelbuettel and Romain Francois combining C++ with R is very easy.
+Various aspects of C++ and Rcpp will be discussed starting from simple examples that will help you easily replace the R code with often significantly faster counterparts in C++.
+
+An earlier knowledge of C++ is NOT required, but it will probably be helpful.
