@@ -18,7 +18,7 @@ Place: [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.e
     * Theo	Roe, [Jumping Rivers](https://www.jumpingrivers.com/)
 - [To be added](https://www.whyr.pl/)
 
-## Afternoon Session (13:30 - 17:00)
+## Afternoon Session (14:00 - 17:30)
 
 - [Straightforward introduction to Deep Learning in R (with Keras)](https://github.com/WhyR2019/workshops/tree/master/keras) 
     * Mikołaj Olszewski and Mikołaj Bogucki (iDash)[https://idash.pl/]
