@@ -22,7 +22,7 @@ Place: [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.e
 ## Afternoon Session (14:00 - 17:30)
 
 - [Straightforward introduction to Deep Learning in R (with Keras)](https://github.com/WhyR2019/workshops/tree/master/keras) 
-    * Mikołaj Olszewski and Mikołaj Bogucki (iDash)[https://idash.pl/]
+    * Mikołaj Olszewski and Mikołaj Bogucki [iDash](https://idash.pl/)
 - [„Black is the new White” - using eXplainable Artificial Intelligence in Business](https://github.com/WhyR2019/workshops/tree/master/xai) 
     * Marcin	Chlebus, [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.edu.pl/), Data Juice Lab, Data Dontus
 - [Speeding up R wih C++ (Rcpp) - from basics to more advanced applications](https://github.com/WhyR2019/workshops/tree/master/rcpp) 
