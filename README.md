@@ -16,7 +16,8 @@ Place: [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.e
     * [Alicja Gosiewska](http://gosiewska.com/) and Tomasz Mikołajczyk, [MI2 Data Lab](http://mi2.mini.pw.edu.pl)
 - [Shiny Basics](https://github.com/WhyR2019/workshops/tree/master/shiny) 
     * Theo	Roe, [Jumping Rivers](https://www.jumpingrivers.com/)
-- [To be added](https://www.whyr.pl/)
+- [Machine Learning Pipelines and Reproducible Research with mlr3 and drake](https://mlr3.mlr-org.com/)
+    * Jakob Richter (Technical University of Dortmund, mlr Team) and Patrick Schratz (Friedrich-Schiller-University Jena, mlr Team)
 
 ## Afternoon Session (14:00 - 17:30)
 
