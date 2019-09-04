@@ -26,4 +26,6 @@ Place: [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.e
 - [„Black is the new White” - using eXplainable Artificial Intelligence in Business](https://github.com/WhyR2019/workshops/tree/master/xai), 
     * Marcin	Chlebus, [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.edu.pl/), Data Juice Lab, Data Dontus
 - [Speeding up R wih C++ (Rcpp) - from basics to more advanced applications](https://github.com/WhyR2019/workshops/tree/master/rcpp),
-    * Piotr WóJcik, [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.edu.pl/).
+    * Piotr Wójcik, [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.edu.pl/),
+- [Basics of spatial data analysis](https://github.com/WhyR2019/workshops/tree/master/spatial) 
+    * Jakub Nowosad (Adam Mickiewicz University, Poznan).
