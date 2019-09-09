@@ -2,7 +2,7 @@
 
 Place: [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.edu.pl/), Długa 44/50, 00-241 Warsaw, Poland
 
-## All Day-Workshop (9:00-12:30 + 13:30-17:00)
+## All Day-Workshop (9:00-12:30 + 14:00-17:00)
 
 - [Introduction to modern Generalized Additive Models in R (with mgcv)](https://github.com/WhyR2019/workshops/tree/master/mgcv) [Matteo Fasiolo, University of Bristol](http://www.bristol.ac.uk/maths/people/matteo-fasiolo/overview.html)
 
