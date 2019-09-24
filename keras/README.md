@@ -14,3 +14,7 @@ On this practice oriented workshop you will learn the very basics of how deep ne
 
 [1] https://keras.io
 [2] http://insideairbnb.com 
+
+### Requirements
+
+We'll be using Google Colab to solve exercises during the workshop. **Google account is needed** to be able to fully participate.
