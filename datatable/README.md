@@ -10,7 +10,7 @@ Workshop will be divided in two parts.
 
 - Second part will be focused on a particular use case of working with time-series data. Full processing workflow will be presented as well as multiple features useful when working with ordered observations datasets.
 
-Participants are kindly requested to prepare their workstations for the workshop by running below code to ensure recent `data.table` version is installed.
+Participants are kindly requested to prepare their workstations for the workshop by running below code to ensure recent `data.table` version is installed. `curl` package will be used to access online data.
 ```r
-install.packages("data.table")
+install.packages(c("curl","data.table"))
 ```
