@@ -54,6 +54,7 @@ tm_shape(nz) +
             inner.margins = c(0, 0, 0, 0))
 ```
 
+Please see https://datacarpentry.org/geospatial-workshop/setup.html on how to install geospatial library dependencies.
 
 ### Bio
 
