@@ -11,3 +11,15 @@ Thanks to the Rcpp package written by Dirk Eddelbuettel and Romain Francois comb
 Various aspects of C++ and Rcpp will be discussed starting from simple examples that will help you easily replace the R code with often significantly faster counterparts in C++.
 
 An earlier knowledge of C++ is NOT required, but it will probably be helpful.
+
+The use of C++ in R requires installation of a C++ compiler.
+
+To make it available, please:
+- on Windows: install the latest version of Rtools.
+- on Mac: install the Xcode application from the AppStore
+- on Linux: sudo apt-get install r-base-dev or similar.
+
+Workshop participants are kindly requested to install the newest version of Rtools (or equivalent - see above) and Rcpp package on their computers BEFORE the workshop
+
+Prior to the installation of above packages it is also recommended:
+install.packages(c("devtools", "usethis", "installr", "Rcpp", "RcppArmadillo", "RcppNumerical", "rbenchmark"))
