@@ -16,3 +16,7 @@ The second part starts with a brief overview of the [drake](https://ropensci.git
 This package helps you to set up a reproducible workflow of your project.
 It integrates greatly with the _mlr3_ package.
 We'll give examples on different complexity levels and walk you through these.
+
+### Materials
+
+- [mlr3-learndrake](https://github.com/mlr-org/mlr3-learndrake) repo (includes slide decks and scripts)
