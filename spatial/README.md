@@ -14,6 +14,10 @@ This workshop will introduce participants to the spatial data analysis system in
 The focus will be on *getting started*, with demonstrations of key packages, spatial analysis, and making maps.
 Pointers to further materials will ensure that participants know where to get help and how to take confident next steps after the session.
 
+### Materials
+
+The workshop slides are available at https://nowosad.github.io/presentations/2019/whyr2019w/.
+
 ### Requirements
 
 Run the code below in R to install all of the required R packages.
