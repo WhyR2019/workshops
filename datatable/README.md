@@ -14,3 +14,10 @@ Participants are kindly requested to prepare their workstations for the workshop
 ```r
 install.packages(c("curl","data.table"))
 ```
+
+### Materials
+
+[jangorecki/r-talks-whyr2019](https://gitlab.com/jangorecki/r-talks-whyr2019) repo includes:
+
+- `intro.R` - introduction to `data.table`, workshop part 1
+- `ts.R` - time-series data, workshop part 2
