@@ -2,6 +2,10 @@
 
 Authors: Mikołaj Olszewski, Mikołaj Bogucki, [iDash](https://idash.pl/)
 
+### Materials
+
+Slidedeck with all the links: [link](https://idashpl.github.io/wprowadzenie_do_deep_learningu/prezentacja/dl_intro_r.html)
+
 ### Description
 
 Methods based on Deep Neural Networks (DNN), called “Deep Learning”, are recently gaining more and more popularity in the Data Science industry. 
@@ -17,4 +21,4 @@ On this practice oriented workshop you will learn the very basics of how deep ne
 
 ### Requirements
 
-We'll be using Google Colab to solve exercises during the workshop. **Google account is needed** to be able to fully participate.
+We'll be using Google Colab to solve exercises during the workshop. Google account is needed to be able to fully participate.
